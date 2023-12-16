@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/login"
+        android:orderInCategory="500"
+        android:title="Login" />
+
+    <item
+        android:id="@+id/go_to_saved_posts"
+        android:orderInCategory="100"
+        android:title="Saved Posts" />
+
+    <item
+        android:id="@+id/go_to_my_posts"
+        android:orderInCategory="100"
+        android:title="My Posts" />
+
+    <item
+        android:id="@+id/followersOrFollowees"
+        android:orderInCategory="200"
+        android:title="Followers / Followees" />
+
+    <item
+        android:id="@+id/delete_users"
+        android:orderInCategory="300"
+        android:visible="false"
+        android:title="Delete all Account (for development)" />
+
+    <item
+        android:id="@+id/delete_posts"
+        android:orderInCategory="400"
+        android:visible="false"
+        android:title="Clear All Post (for development)" />
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="500"
+        android:title="Logout" />
+
+</menu>

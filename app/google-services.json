@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447424670250",
+    "project_id": "travel-photo-sharing-app",
+    "storage_bucket": "travel-photo-sharing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447424670250:android:e37acc849e40c9a220b153",
+        "android_client_info": {
+          "package_name": "com.example.travel_photo_sharing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rKEoabfbXUol9YCtC0nG2Qv_7dOdv3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

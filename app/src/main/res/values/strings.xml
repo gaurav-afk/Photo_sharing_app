@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">travel_photo_sharing_app</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+    <string-array name="category_options">
+        <item>Travel</item>
+        <item>Food</item>
+        <item>Selfie</item>
+    </string-array>
+</resources>
